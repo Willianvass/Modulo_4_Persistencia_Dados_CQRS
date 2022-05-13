@@ -15,7 +15,7 @@ Ao longo do curso serão apresentadas diversas ferramentas e tecnologias que for
 - :heavy_check_mark:Clean Architecture com as camadas Core, Infrastructure, Application e API
 - :heavy_check_mark:Persistência com Entity Framework Core (* Persitência de Dados; * ORM - Object Relational Mapper; * DbContext / DbSet; * Pacotes CLI; * Entidades para Tabelas; * Refatorando; * Migrations; EF Core / Include; * Dapper ORM;)
 - ✔️Arquitetura Limpa (* Inversão de Depêndencia; * Camada Core; Camada Infrastructure; * Camada Application; * Camada API;) 
-- Command Query Responsibility Segregation (CQRS)
+- :heavy_check_mark:Command Query Responsibility Segregation (CQRS)
 - Padrão Repository
 - Validação de APIs
 - Autenticação e Autorização com JWT
