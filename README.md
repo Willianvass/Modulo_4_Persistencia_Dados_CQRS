@@ -1,4 +1,4 @@
-# Modulo_3_Arquitetura_Limpa
+# Modulo_4_Persistencia_Dados_CQRS
 
 ## Formação ASP.NET Core
 
